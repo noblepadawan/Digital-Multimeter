@@ -1,0 +1,5 @@
+uart.c:14:6:UART_init	1
+uart.c:46:6:UART_print_string	5
+uart.c:66:6:UART_print_char	4
+uart.c:80:6:UART_ESC_code	1
+uart.c:88:6:uint16_to_string	5

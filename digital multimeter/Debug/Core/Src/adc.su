@@ -1,0 +1,2 @@
+../Core/Src/adc.c:10:6:ADC_init	16	static
+../Core/Src/adc.c:67:6:ADC_volt_conv	88	static
